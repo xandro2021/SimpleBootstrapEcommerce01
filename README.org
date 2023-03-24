@@ -8,4 +8,6 @@ This is submodule of my studying notes which were released as a public project i
 [[https://xandro2021.github.io/SimpleBootstrapEcommerce01/][Github Pages Link]]
 
 * Interesting things learned in this Project
-
++ g-0 (utility class to delete the default padding in the bootstrap grid system)
+  It was use in the line 53, first card
++ How to rewrite the custom bootstrap colours with vanilla CSS
