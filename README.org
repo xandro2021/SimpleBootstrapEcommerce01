@@ -13,3 +13,5 @@ This is submodule of my studying notes which were released as a public project i
 + How to rewrite the custom bootstrap colours with vanilla CSS
 + Bootstrap has an utility class for overflow. overflow-hidden
 + img-fluid / card-img-top (bootstrap aux classes to make images adaptive)
++ list-unstyled (bootstrap utility class to remove dots in list)
++ Blogs Entries always use articles in the html

@@ -11,6 +11,9 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 1.6rem;
     line-height: 2;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -94,3 +97,4 @@ h3 {
 .categoria img:hover {
     scale: 1.2;
 }
+
