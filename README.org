@@ -18,3 +18,4 @@ This is submodule of my studying notes which were released as a public project i
 + offset-md-3 (it was used to specify the number of columns to skipt, it was used to center a component within a container, legacy solution worst solution)
 + data-{} to create a custom html-5 property to storage something
 + event.relatedTarget it is used on javascript to access the component that triggered the event.
++ Boostrap Forms Validations & Review of HTML form elements tags
